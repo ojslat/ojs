@@ -594,6 +594,9 @@ Ativo indica avaliação em consideração ou andamento.]]></message>
 	<message key="about.onlineSubmissions">Submissões Online</message>
 	<message key="about.onlineSubmissions.login">Acesso</message>
 	<message key="about.onlineSubmissions.registrationRequired">O cadastro no sistema e posterior acesso, por meio de login e senha, são obrigatórios para a submissão de trabalhos, bem como para acompanhar o processo editorial em curso. {$login} em uma conta existente ou {$register} uma nova conta.</message>
+	<message key="about.onlineSubmissions.submissionActions">{$newSubmission} ou {$viewSubmissions}.</message>
+        <message key="about.onlineSubmissions.newSubmission">Fazer uma nova submissão</message>
+        <message key="about.onlineSubmissions.viewSubmissions">ver as suas submissões pendentes</message>
 	<message key="about.authorGuidelines">Diretrizes para Autores</message>
 	<message key="about.submissionPreparationChecklist">Condições para submissão</message>
 	<message key="about.submissionPreparationChecklist.description">Como parte do processo de submissão, os autores são obrigados a verificar a conformidade da submissão em relação a todos os itens listados a seguir. As submissões que não estiverem de acordo com as normas serão devolvidas aos autores.</message>
