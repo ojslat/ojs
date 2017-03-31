@@ -11,8 +11,9 @@
   * DOI plugin localization strings
   -->
  
-<locale name="es_ES" full_name="Español (España)">
+<locale name="es_ES" full_name="Español (Español)">
 	<message key="plugins.pubIds.doi.displayName">DOI</message>
+	<message key="plugins.pubIds.doi.readerDisplayName">DOI:</message>
 
 	<!-- settings form -->
 	<message key="plugins.pubIds.doi.manager.settings.description">Configure o plugin DOI para gerir e usar DOIs na sua revista:</message>
