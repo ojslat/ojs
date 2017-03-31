@@ -190,6 +190,7 @@
 	<message key="journal.path">Ruta</message>
 	<message key="context.context">Revista</message>
 	<message key="journal.issn">ISSN</message>
+	<message key="journal.viewAllIssues">Ver todos los números</message>
 
 	<!-- User -->
 	<message key="user.profile.profileImage">Imagen de perfil</message>
